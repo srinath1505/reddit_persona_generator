@@ -63,6 +63,8 @@ models/gemini-1.5-flash-latest
 
 👨‍💻 Author
 Srinath Selvakumar
-📫 LinkedIn | GPT, LLMs, Robotics & Healthcare AI
+📫 www.linkedin.com/in/srinath-selvakumar-190570283/ | GPT, LLMs, Robotics & Healthcare AI
+
+
 📜 License
 This project is for evaluation purposes only and not intended for production use.
